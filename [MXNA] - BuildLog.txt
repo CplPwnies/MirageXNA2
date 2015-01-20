@@ -1,0 +1,68 @@
+Mirage XNA Build Log - 07.01.2012
+___________________________________________________________________________
+Official Website: www.rpgcreation.com
+
+///////////////////////
+// Mirage XNA v1.0.4 //
+///////////////////////
+
+[CLIENT]
+Sorry for the lack of information in the build this time around, i've changed so much and learnt a lot from the last release i've recoded pretty much everything and cleaned alot up. The next release i will do step by step on exackly what i update.
+
+[SERVER]
+- Clean up and remove a few classes.
+- Added many packets another Networking overhaul.
+
+///////////////////////
+// Mirage XNA v1.0.3 //
+///////////////////////
+
+[CLIENT]
+- The client no longer renders players on other maps.
+- A lot of bug fixes to many to mention.
+- Cleaned up alot of code and organised more.
+- Test client with 10 players online. Fixed a few bugs involving that.
+- Cleaned up some Classes.
+- Added 3 New Packets. 
+- Networking fixes.
+
+[SERVER]
+- Update Networking.
+- Updated PlayerData Packets.
+- Added 3 New Packets. 
+- Updated SendMap Packets.
+
+///////////////////////
+// Mirage XNA v1.0.2 //
+///////////////////////
+
+[CLIENT]
+- Added Username & Password Labels to Login & Registration.
+- Map now renders fringe layers above players.
+- Fixed Account Registration. Small Bug.
+- Changed all menu buttons.
+- Fixed Change Sprite.
+- Text Labels now change colour on hover.
+- Cleaned up some Classes.
+
+[SERVER]
+- N/A
+
+///////////////////////
+// Mirage XNA v1.0.1 //
+///////////////////////
+
+[CLIENT]
+- Added Change Sprite selection to account registration.
+
+[SERVER]
+- Removed Auto admin account setup.
+- Added new void PlayerWarp.
+- Added a check to see if player already exists upon account creation.
+- Made accounts names save in lower case along with loading player.
+
+///////////////////////
+// Mirage XNA v1.0.0 //
+///////////////////////
+
+- Initial release of Mirage XNA
